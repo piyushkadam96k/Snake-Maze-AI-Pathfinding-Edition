@@ -75,7 +75,7 @@ python game.py
 ---
 
 ## 🏆 Author
-**[Amit Kadam](https://github.com/piyushadam96k)**
+**[Amit Kadam](https://github.com/piyushkadam96k)**
 
 ---
 
