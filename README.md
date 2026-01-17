@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Snake Maze – AI Pathfinding Edition</h1>
+<h1 align="center"> 🐍 Snake Maze – AI Pathfinding Edition</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python">
